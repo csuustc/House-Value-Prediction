@@ -1,6 +1,6 @@
 # House-Value-Prediction
 
-This project aims to bulid linear regression models to predict median house value(**medv**) in Boston. The dataset is composed by 506 neighborhoods around Boston, including **medv** and 13 predictors such as **rm** (average number of rooms per house), **age** (average age of houses), and **lstat** (percent of households with low socioeconomic status).
+This project aims to build linear regression models to predict median house value(**medv**) in Boston. The dataset is composed by 506 neighborhoods around Boston, including **medv** and 13 predictors such as **rm** (average number of rooms per house), **age** (average age of houses), and **lstat** (percent of households with low socioeconomic status).
 
 This data frame contains the following columns:
 
